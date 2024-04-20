@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "apellido_p": "Leanne Graham",
+        "apellido_m": "Bret",
+        "Nombre": "Sincere@april.biz",
+        "Sección": "Obstetecia"
+    },
+    {
+        "id": 2,
+        "apellido_p": "Administrador",
+        "apellido_m": "Perez",
+        "Nombre": "Raul",
+        "Sección": "Medicina General"
+    },
+    {
+        "id": 3,
+        "apellido_p": "squispe",
+        "apellido_m": "Laureano",
+        "Nombre": "Jose",
+        "Sección": "Cardiología"
+    },
+    {
+        "id": 4,
+        "apellido_p": "Jhon",
+        "apellido_m": "Lopez",
+        "Nombre": "Robert",
+        "Sección": "Neurología"
+    },
+    {
+        "id": 5,
+        "apellido_p": "santos",
+        "apellido_m": "Gutierrez",
+        "Nombre": "Maria",
+        "Sección": "Endocrinología"
+    },
+    {
+        "id": 7451,
+        "apellido_p": "Sandra",
+        "apellido_m": "Cevallos",
+        "Nombre": "Sara",
+        "Sección": "Medicina Interna"
+    },
+    {
+        "id": 4494,
+        "apellido_p": "Sandra",
+        "apellido_m": "Ortega",
+        "Nombre": "Cecilia",
+        "Sección": "Ginecología"
+    },
+  {
+        "id": 4490,
+        "apellido_p": "Quispe",
+        "apellido_m": "Ronales",
+        "Nombre": "Renato",
+        "Sección": "Gastroenterología"
+  },
+  {
+        "id": 4583,
+        "apellido_p": "Marcos",
+        "apellido_m": "Gonzales",
+        "Nombre": "Roberto",
+        "Sección": "Rehabilitacion"
+  },
+  {
+        "id": 4675,
+        "apellido_p": "Marcos",
+        "apellido_m": "Perez",
+        "Nombre": "Julio",
+        "Sección": "Dental"
+  },
+  {
+        "id": 4308,
+        "apellido_p": "macavilca",
+        "apellido_m": "Martinez",
+        "Nombre": "Mario",
+        "Sección": "Urología"
+  },
+  {
+        "id": 9635514,
+        "apellido_p": "Jauregui",
+        "apellido_m": "Medina",
+        "Nombre": "Lorenzo",
+        "Sección": "Hematología"
+  },
+  {
+        "id": 44909754,
+        "apellido_p": "Campos",
+        "apellido_m": "Cornelia",
+        "Nombre": "Cesar",
+        "Sección": "Reumatología"
+  },
+]
+  
